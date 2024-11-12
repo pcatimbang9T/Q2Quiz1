@@ -1,0 +1,44 @@
+img {
+	width:70px;
+	}
+
+th {
+	text-align: center;
+}
+body {
+	background-image: url(https://i.pinimg.com/originals/ae/67/e0/ae67e0609d146a2982d84ed722659d89.jpg);
+}
+
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			text-align: center;
+		}
+		.footer{
+			bottom: 0;
+			position: fixed;
+			background-color: darkorange;
+			width: 100%;
+			padding: 10px;
+		}
+		.container{
+			padding: 20px;
+        	margin: 20px;
+
+        .animate_rubberBand:hover{
+        animate-duration: 2s;
+        display: inline-block;
+        animation: bounce;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+
+        }
+
+        h1 {
+        	text-align: center; "philippines copy.png"
+
+ 		img {
+            width: 200px; 
+            height: auto; 
+        }
